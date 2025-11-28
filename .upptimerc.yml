@@ -22,7 +22,7 @@ status-website:
   baseUrl: /amussoft-upptime
   logoUrl: https://amussoft.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.7f6a680a.png&w=384&q=75
   name: AMUS SOFT Uptime Monitor
-  introTitle: "**AMUS SOFT Uptime Monitor** is the open-source uptime tracker and status page for AMUS SOFT services."
+  introTitle: "This is an open-source uptime tracker and status page for AMUS SOFT services."
   introMessage: This status page delivers **real-time** uptime checks for AMUS SOFT's critical services, pulling data straight from our [GitHub repository](https://github.com/amussoft/uptime).
   navbar:
     - title: Status
