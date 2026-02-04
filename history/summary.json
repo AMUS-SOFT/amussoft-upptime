@@ -4,10 +4,10 @@
     "url": "https://auth.factuon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.factuon.com.ico",
     "slug": "factu-on-auth-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 489,
@@ -15,7 +15,9 @@
     "timeWeek": 463,
     "timeMonth": 503,
     "timeYear": 489,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-04": 1
+    }
   },
   {
     "name": "FactuON",
