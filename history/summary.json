@@ -24,18 +24,20 @@
     "url": "https://factuon.com",
     "icon": "https://icons.duckduckgo.com/ip3/factuon.com.ico",
     "slug": "factu-on",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2198,
-    "timeDay": 3567,
-    "timeWeek": 2210,
-    "timeMonth": 1920,
-    "timeYear": 2198,
-    "dailyMinutesDown": {}
+    "time": 2185,
+    "timeDay": 2006,
+    "timeWeek": 1989,
+    "timeMonth": 1874,
+    "timeYear": 2185,
+    "dailyMinutesDown": {
+      "2026-04-02": 0
+    }
   },
   {
     "name": "FactuON API",
