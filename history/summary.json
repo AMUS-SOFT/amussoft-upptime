@@ -64,9 +64,9 @@
     "url": "https://employon.factuon.com",
     "icon": "https://icons.duckduckgo.com/ip3/employon.factuon.com.ico",
     "slug": "employ-on",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +75,9 @@
     "timeWeek": 681,
     "timeMonth": 778,
     "timeYear": 719,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-22": 0
+    }
   },
   {
     "name": "EmployON API",
