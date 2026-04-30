@@ -4,11 +4,11 @@
     "url": "https://auth.factuon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.factuon.com.ico",
     "slug": "factu-on-auth-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 494,
     "timeDay": 402,
@@ -16,6 +16,7 @@
     "timeMonth": 511,
     "timeYear": 494,
     "dailyMinutesDown": {
+      "2026-04-30": 7,
       "2026-02-04": 17
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://factuon.com",
     "icon": "https://icons.duckduckgo.com/ip3/factuon.com.ico",
     "slug": "factu-on",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 2112,
     "timeDay": 1268,
     "timeWeek": 1581,
     "timeMonth": 1871,
     "timeYear": 2112,
     "dailyMinutesDown": {
+      "2026-04-30": 5,
       "2026-04-02": 32
     }
   },
@@ -44,11 +46,11 @@
     "url": "https://api.factuon.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.factuon.com.ico",
     "slug": "factu-on-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 618,
     "timeDay": 441,
@@ -56,6 +58,7 @@
     "timeMonth": 490,
     "timeYear": 618,
     "dailyMinutesDown": {
+      "2026-04-30": 3,
       "2025-12-03": 20
     }
   },
@@ -64,10 +67,10 @@
     "url": "https://employon.factuon.com",
     "icon": "https://icons.duckduckgo.com/ip3/employon.factuon.com.ico",
     "slug": "employ-on",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 720,
@@ -76,6 +79,7 @@
     "timeMonth": 763,
     "timeYear": 720,
     "dailyMinutesDown": {
+      "2026-04-30": 2,
       "2026-04-22": 64
     }
   },
@@ -84,9 +88,9 @@
     "url": "https://api-employon.factuon.com",
     "icon": "https://icons.duckduckgo.com/ip3/api-employon.factuon.com.ico",
     "slug": "employ-on-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,7 +99,9 @@
     "timeWeek": 572,
     "timeMonth": 510,
     "timeYear": 533,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-30": 0
+    }
   },
   {
     "name": "DeskON",
